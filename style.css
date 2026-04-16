@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: Arial;
+}
+
+#track {
+  width: 80%;
+  height: 100px;
+  background: lightgray;
+  margin: 20px auto;
+  position: relative;
+}
+
+#car {
+  position: absolute;
+  left: 0;
+  font-size: 40px;
+  transition: 0.5s;
+}
